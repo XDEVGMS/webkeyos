@@ -1,1 +1,1 @@
-WebKeyOS Kernel v2.025-RC12f (Build Development) | Web UI v2.0.0 | LauncherOTA v2.012-RC12f
+WebKeyOS Kernel v2.025-RC12B (Build Development) | Web UI v2.0.0 | LauncherOTA v2.012-RC12B
